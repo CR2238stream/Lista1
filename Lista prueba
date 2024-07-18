@@ -1,0 +1,6 @@
+﻿#EXTM3U
+#EXTINF:0, tvg-logo="tntsports.png" tvg-name="TNTSPORTS"  group-title="DEPORTES",TNTSPORTS
+http://181.191.140.2:8000/play/a0gf/index.m3u8
+#EXTM3U
+#EXTINF:0, tvg-logo="tycsports.png" tvg-name="TYCSPORTS"  group-title="DEPORTES",TYCSPORTS
+http://181.191.140.2:8000/play/a0gf/index.m3u8
